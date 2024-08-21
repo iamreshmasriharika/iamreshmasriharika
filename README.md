@@ -1,7 +1,3 @@
-Hey! 👋, I'm Kommireddy Reshma Sri Harika
-
-A passionate software developer and tech enthusiast from India.
-
 
 🚀 Coding & Tech Enthusiasm
 
